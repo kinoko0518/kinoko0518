@@ -4,10 +4,10 @@
 # 📖 I'm belonging to ...
 <img src="https://github.com/user-attachments/assets/cf056515-a781-4a03-8093-967556740159" width=300>
 
-I'm a 16 year old student of the National Institute of Technology, Kosen's Computer Science departure!
+I'm a 17 year old student of the National Institute of Technology, Kosen's Computer Science departure!
 
 And I'm a member of a game development team, 
-<a href="https://github.com/xeNon-gamedev"><img src="https://github.com/user-attachments/assets/64a1ecf9-8b13-4d8a-9943-da81dce89edc" width=100></a>
+<a href="https://github.com/xeNon-gamedev"><img src="https://github.com/user-attachments/assets/b53088b7-c2a4-42b8-84d0-cf8231c0bcd8" width="100"></a>
 
 # 🔭 I’m currently working on ...
 ## ⛏ [MC++](https://github.com/kinoko0518/MCPP-Rewrite)
