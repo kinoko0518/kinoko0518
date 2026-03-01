@@ -1,49 +1,61 @@
-# ✨Hello, I'm Kinokov Shotaskovich
-### 🦀Rustacean / 🎮Godot User / ♥️I Love OpenSource
-### 🇯🇵 I'm Japanese / 🇬🇧 I learnt English
-# 📖 I'm belonging to ...
-<img src="https://github.com/user-attachments/assets/cf056515-a781-4a03-8093-967556740159" width=300>
+# Hello, I'm Kinokov Shotaskovich🦀
+A Japanese student who's born in 2008! I'm fascinated in 🦀Rust, and I'm curious about compiler and computer science👀
 
-I'm a 17 year old student of the National Institute of Technology, Kosen's Computer Science departure!
+**Tech Stacks:**
+- **Be Confident In**: Rust, GDScript
+- **Now On Learning**: Haskell, C#, C++, C, Compiler, Category Theory, Linear Algebra
 
-And I'm a member of a game development team, 
-<a href="https://github.com/xeNon-gamedev"><img src="https://github.com/user-attachments/assets/b53088b7-c2a4-42b8-84d0-cf8231c0bcd8" width="100"></a>
+**Philosophy**
+- Keep It Simple, Stupid
+- Do one thing and do it well
 
-# 🔭 I’m currently working on ...
-## ⛏ [MC++](https://github.com/kinoko0518/MCPP-Rewrite)
-<img src="https://github.com/user-attachments/assets/07bf5229-686a-423e-9703-886fdb19694c" width="300">
+I began programming at about 10~11 old, and got hooked on game programming on Scratch (and Unity littlebit).
 
-MC++ is a high-level programming language compiled for Minecraft commands.
-Originaly, It was for a christmas present for my friend who's making RPG on Minecraft. (And as you though, the name of this project is a parody of C++)
-I began this project with Python, but after I made a prototype, I noticed that's it's too dull. So I learnt Rust, and rewrite it in Rust programming language.
-Now, MC++ supporting formula parsing, function definemenet, variable definement.
+I was taught it in [CoderDojo](https://codeclub.org/en/coderdojo-community), now I'm mentor of it.
 
-## ✨ [Etoile](https://github.com/xeNon-gamedev/Etoile)
-<img src="https://github.com/user-attachments/assets/ae8364c4-b244-4d1c-86d9-03c09f23674d" width="225">
+## ✨Remarkable Projects
+### Repositories
+- [aozora.rs](https://github.com/kinoko0518/aozora-rs): An embeddable, native, and fast parser for AozoraLibrary-Markup (青空文庫書式) written in Rust.
+- [Boxfish Overflow!](https://github.com/kinoko0518/Boxfish-Overflow-): A puzzle game under the theme of boxfish, register, and bit operations, written in Rust with [Bevy](https://bevy.org/).
 
-Do you wanna hit yokais with GameCube!?!?! If you want, you have to play this game, probably. This is a game that's on going in xe-Non. We are using Godot for it.
+### Blogs
+⚠️Mothertongue Alert⚠️
 
-# 🌱 I'm currently learning ...
-## 🦀 [Rust](https://www.rust-lang.org/)
-I was really bewitched by Rust language! It's actually kind for careless developers, alike me.
+- note: [https://note.com/takedabosciola](https://note.com/takedabosciola)
+- CoderDojo Activity Log: [https://recoderdojoeniwa.github.io/HomePage/blogs/blog_index.html](https://recoderdojoeniwa.github.io/HomePage/blogs/blog_index.html)
+- Yuru-non Blog: [https://blog.xe-non.com/](https://blog.xe-non.com/)
 
-## 🇨🇳 Chinese
-To understand sentences, it's not difficult for Japanese because of we use chinese charactors in daily lifes. But pronounciation are extreamly hard for me! Ah I forgot duolingo today too.
+## I'm belonging to...
+### [xe-non](https://xe-non.com/)
+<a src="https://xe-non.com/"><img width="100em" alt="xe-non" src="https://github.com/user-attachments/assets/b2c76d0f-3a3c-48fb-8074-627c5405f4ca" /></a>
 
-## 🎨 Drawing
-I have to be able to draw pictures as my sister no longer draws pictures for me nowadays...
+A game studio I established with my classmates. I'm chief engineer here, and leading the team!
 
-# 📫 How to reach me
-Telegram : [@kinokov_shotaskovich](https://t.me/kinokov_shotaskovich)
+### [(Re:)CoderDojo Eniwa](https://recoderdojoeniwa.github.io/HomePage/)
+<img width="100em" alt="CoderDojo Eniwa" src="https://github.com/user-attachments/assets/6e377050-5960-4ee9-92cd-2ee35e8f090b" />
 
-<!--
-**kinoko0518/kinoko0518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It had been stopped working until 2024 'cause of COVID-19, but to realize a dream that I had when I was a participants; to be a mentor, I call out former mentors to reboot it.
 
-Here are some ideas to get you started:
+Gladly, now we have a rooted participant and act on every end of month!
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Favours
+### Games
+- Minecraft
+- Deltarune
+- Half-Life 2
+- Portal / Portal 2 / Portal: Stories Mel
+- Toho Komakyo (東方紅魔郷) / Toho Kinjokyo (東方錦上京)
+- elona
+
+### Novels
+- Osamu Dazai (太宰治)
+- Kenji Miyazawa (宮沢賢治)
+- Ninja Slayer
+
+### Animes
+- COIL A CIRCLE OF CHILDREN (電脳コイル)
+- Cosmic Princess Kaguya! (超かぐや姫!)
+- MOBILE SUIT GUNDAM (機動戦士ガンダム)
+
+## 📫How to Reach Me
+Telegram: @kinokov_shotaskovich
