@@ -1,4 +1,4 @@
-# Hello, I'm Kinokov Shotaskovich🦀
+# Hello, I'm Kinokov🦀
 A Japanese student who's born in 2008! I'm fascinated in 🦀Rust, and I'm curious about compiler and computer science👀
 
 **Tech Stacks:**
